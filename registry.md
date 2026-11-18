@@ -2,6 +2,6 @@
 
 | Produto | Repositório | Status | Squad | Criado em |
 |---|---|---|---|---|
-| (nenhum ainda) | | | | |
+| sabara-alagamentos | — | briefing aprovado | sabara-alagamentos | 2026-11-17 |
 
 Status possíveis: ideia, briefing aprovado, em desenvolvimento, em produção, pausado, arquivado.
